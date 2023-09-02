@@ -1,0 +1,87 @@
+{
+	"block.bountiful.bountyboard": "Kopfgeldtafel",
+
+	"itemGroup.bountiful": "Bountiful",
+
+	"bountiful.entry.shepherd_obj_wool_wildcard": "Jede Wolle",
+	"bountiful.entry.fletcher_obj_planks": "Alle Bretter",
+	"bountiful.entry.fletcher_obj_logs": "Jeder Stamm",
+	"bountiful.entry.shepherd_obj_bed_wildcard": "Jedes Bett",
+	"bountiful.entry.fisherman_obj_any_boat": "Jedes Boot",
+	"bountiful.entry.mapper_obj_candles": "Jede Kerze",
+	"bountiful.entry.shepherd_obj_banner_wildcard": "Jedes Banner",
+
+	"bountiful.entry.fisherman_obj_catch_ench_book": "Verzauberte Bücher Angeln",
+	"bountiful.entry.cleric_obj_brew_swiftness": "Braue einen einfachen Schnelligkeitstrank",
+	"bountiful.entry.cleric_obj_cure_zombie_villager": "Heile einen Zombie-Dorfbewohner",
+
+
+	"bountiful.decree": "Beschluss",
+	"bountiful.decrees": "Beschlüsse",
+	"bountiful.decree.invalid": "Ungültiger Beschluss",
+	"bountiful.decree.notset": "Bringen Sie dies zu einer Kopfgeldtafel!",
+
+	"bountiful.bounty.expired": "Dieses Kopfgeld ist abgelaufen.", 
+	"bountiful.bounty.turning": "Erfüllen Sie Ihr Kopfgeld, indem Sie mit der rechten Maustaste auf eine Kopfgeldtafel klicken.",
+
+	"bountiful.advancement.bounty_taken.title": "Arbeit gegen Bezahlung",
+	"bountiful.advancement.bounty_taken.desc": "Nimm ein Kopfgeld von einer Kopfgeldtafel",
+
+	"bountiful.advancement.bounty_complete.title": "Ehrliche Bezahlung für ehrliche Arbeit",
+	"bountiful.advancement.bounty_complete.desc": "Schließe ein Kopfgeld ab!",
+
+	"bountiful.advancement.rush_order.title": "Eilbestellung",
+	"bountiful.advancement.rush_order.desc": "Schließe ein Kopfgeld in weniger als einer Minute ab",
+
+	"bountiful.advancement.procrastinator.title": "Meisterhafter Zauderer",
+	"bountiful.advancement.procrastinator.desc": "Schließe ein Kopfgeld in weniger als fünf Sekunden ab",
+
+	"bountiful.advancement.town_crier.title": "Stadtausrufer",
+	"bountiful.advancement.town_crier.desc": "Erhalte einen Beschluss!",
+
+	"bountiful.advancement.royal_mandate.title": "Königliches Mandat",
+	"bountiful.advancement.royal_mandate.desc": "Legen Sie einen Beschluss in eine Kopfgeldtafel",
+
+	"bountiful.bounty": "Bounty",
+
+	"bountiful.decree.armorer.name": "Rüstungsschmiedekunst",
+	"bountiful.decree.butcher.name": "Schlachter",
+	"bountiful.decree.chef.name": "Vorräte des Kochs",
+	"bountiful.decree.cleric.name": "Vorräte des Klerikers",
+	"bountiful.decree.farmer.name": "Landwirtschaft",
+	"bountiful.decree.fisherman.name": "Angeln",
+	"bountiful.decree.fletcher.name": "Pfeilmacher",
+	"bountiful.decree.hunting.name": "Jäger",
+	"bountiful.decree.inventor.name": "Erfinden",
+	"bountiful.decree.leatherer.name": "Lederverarbeitung",
+	"bountiful.decree.librarian.name": "Bibliothekar",
+	"bountiful.decree.mapper.name": "Kartographie",
+	"bountiful.decree.mason.name": "Maurer",
+	"bountiful.decree.shepherd.name": "Hirte",
+	"bountiful.decree.tinker.name": "Basteln",
+	"bountiful.decree.toolsmith.name": "Werkzeugschmiedekunst",
+	"bountiful.decree.invalid_decree.name": "Ungültiger Beschluss",
+
+	"bountiful.bounty.type.entity.kills": "Töte",
+
+	"bountiful.bounty.type.experience.levels": "Erfahrungsstufen",
+	"bountiful.bounty.type.experience.points": "Erfahrungspunkte",
+
+	"bountiful.rarity.Common": "Häufig",
+	"bountiful.rarity.Uncommon": "Ungewöhnlich",
+	"bountiful.rarity.Rare": "Selten",
+	"bountiful.rarity.Epic": "Episch",
+
+	"stat.bountiful.bounties_taken": "Erhaltene Kopfgelder",
+	"stat.bountiful.bounties_done": "Kopfgelder abgeschlossen (Total)",
+	"stat.bountiful.bounties_done_0": "Kopfgelder abgeschlossen (Häufig)",
+	"stat.bountiful.bounties_done_1": "Kopfgelder abgeschlossen (Ungewöhnlich)",
+	"stat.bountiful.bounties_done_2": "Kopfgelder abgeschlossen (Selten)",
+	"stat.bountiful.bounties_done_3": "Kopfgelder abgeschlossen (Episch)",
+
+	"bountiful.tooltip.time": "Zeit zum Abschließen",
+	"bountiful.tooltip.required": "Erfordert",
+	"bountiful.tooltip.rewards": "Belohnung",
+	"bountiful.tooltip.expired": "Abgelaufen",
+	"bountiful.tooltip.requirements": "Anforderungen nicht erfüllt."
+}
